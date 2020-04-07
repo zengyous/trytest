@@ -1,3 +1,4 @@
-# my first trytest
+# my first repo
 hello
-some more texy
+some more text
+week2 class1
