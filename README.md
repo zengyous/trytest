@@ -1,3 +1,4 @@
-# my first trytest
+# my first repo yahoo
 hello
-some more texy
+some more text
+see my cool srcipt
